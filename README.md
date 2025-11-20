@@ -24,7 +24,7 @@ I performed data loading, cleaning, grouping, and visualized the results with ba
 3. Open `analysis.ipynb`
 4. Run all cells
 
-## What I Learned
+## What I Learnt
 
 - How to create and work with CSV files
 - How to use VS Code for Python and Jupyter Notebooks
@@ -38,5 +38,6 @@ I performed data loading, cleaning, grouping, and visualized the results with ba
 - How to write a proper README.md file
 - How to organize a project folder structure
 - How to use Git commands to push projects to GitHub
+
 
 
